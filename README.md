@@ -102,3 +102,10 @@ UI elements are enabled or disabled depending on the game state, providing clear
 This version of Snake lays a solid foundation for future expansion – including visual improvements, added features, and enhanced gameplay.
 
 ---
+
+
+## License
+
+This project is licensed under the [GNU General Public License v3.0](LICENSE).
+
+---
