@@ -1,3 +1,6 @@
+// Provided as part of the course material – author: Prof. Dr. Jörg Winckler
+// License status: Unspecified
+
 package livesession.countdown;
 
 import java.util.Iterator;

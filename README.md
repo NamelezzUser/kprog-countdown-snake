@@ -106,6 +106,9 @@ This version of Snake lays a solid foundation for future expansion – including
 
 ## License
 
-This project is licensed under the [GNU General Public License v3.0](LICENSE).
+This project is licensed under the [GNU General Public License v3.0](LICENSE). 
+
+⚠️ Some files included in this project were provided as part of the university course material and are not subject to the license applied to this repository. 
+Please refer to comments within individual files for details.
 
 ---
