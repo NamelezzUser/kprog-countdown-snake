@@ -1,3 +1,51 @@
+# 🧠 Countdown & 🐍 Snake – Java Team Projects
+
+This repository contains two Java-based projects developed in a team of three students during the second semester
+of the Software Engineering program at Hochschule Heilbronn (Module: *Komplexe Programme*).  
+We collaborated using GitLab, with a strong focus on version control workflows, code quality, and structured teamwork.
+
+---
+
+## 📁 Projects
+
+### 🧠 Countdown (Console Application)
+
+A terminal-based application inspired by the British game show *Countdown*.  
+The program calculates all possible arithmetic expressions from a set of five numbers to reach a given target number using basic operations (+, −, ×, ÷).
+
+- **Key Challenges:** Designing and implementing an efficient algorithm to explore the solution space
+- **Technologies Used:** Java, JUnit
+- **Skills Applied:** Algorithm development, pseudocode design, test-driven development
+- **Theory Applied:** Algorithms & Data Structures (thought in Semester 3) and parts of the [YouTube playlist by
+  Abdul Bari](https://www.youtube.com/watch?v=0IAPZzGSbME&list=PLDN4rrl48XKpZkf03iYFl-O29szjTrs_O) (Professional Programmer and Educator).
+
+
+---
+
+### 🐍 Snake (JavaFX Game)
+
+A real-time Snake game with a responsive JavaFX user interface.  
+The project architecture follows the **MVVM** pattern and includes multithreaded game logic and dynamic user interaction.
+
+- **Features:**
+    - Live game loop (pause/resume using `wait()`/`notify()`)
+    - Observable properties for score, game state and board
+    - GUI elements (SnakeBoard, SnakeCell, SnakeDisplay)
+    - Keyboard and button controls for navigation and game actions
+
+- **Technologies Used:** Java, JavaFX, JUnit, Git, Multithreading
+- **Skills Applied:** GUI development, MVVM architecture, observable state binding, concurrent programming
+
+---
+
+## 👥 Team Collaboration & Git Workflow
+
+Both projects were implemented in a team of three using GitLab.  
+We practiced Git-based collaboration with separate feature branches, merge requests, and conflict resolution.  
+We studied Git fundamentals through [learngitbranching.js.org](https://learngitbranching.js.org/?locale=de_DE) as part of our self-guided learning.
+
+---
+
 # 🐍 Snake – Original Project Notes
 
 ## Getting Started
