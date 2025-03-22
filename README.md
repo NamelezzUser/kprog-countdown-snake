@@ -6,9 +6,9 @@ We collaborated using GitLab, with a strong focus on version control workflows, 
 
 ---
 
-## 📁 Projects
+## [📁 Projects](app/src/main/java/livesession) + [JUnit](app/src/test/java/livesession)
 
-### 🧠 Countdown (Console Application)
+### [🧠 Countdown (Console Application)](app/src/main/java/livesession/countdown)
 
 A terminal-based application inspired by the British game show *Countdown*.  
 The program calculates all possible arithmetic expressions from a set of five numbers to reach a given target number using basic operations (+, −, ×, ÷).
@@ -19,10 +19,9 @@ The program calculates all possible arithmetic expressions from a set of five nu
 - **Theory Applied:** Algorithms & Data Structures (thought in Semester 3) and parts of the [YouTube playlist by
   Abdul Bari](https://www.youtube.com/watch?v=0IAPZzGSbME&list=PLDN4rrl48XKpZkf03iYFl-O29szjTrs_O) (Professional Programmer and Educator).
 
-
 ---
 
-### 🐍 Snake (JavaFX Game)
+### [🐍 Snake (JavaFX Game)](app/src/main/java/livesession/snake)
 
 A real-time Snake game with a responsive JavaFX user interface.  
 The project architecture follows the **MVVM** pattern and includes multithreaded game logic and dynamic user interaction.
