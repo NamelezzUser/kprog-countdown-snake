@@ -18,13 +18,10 @@
 
 package livesession.snake.javafx;
 
-import java.util.Stack;
 import javafx.application.Application;
 import javafx.scene.Scene;
-import javafx.scene.layout.GridPane;
 import javafx.scene.layout.StackPane;
 import javafx.stage.Stage;
-import livesession.snake.GameState;
 import livesession.snake.provider.SimpleSnakeService;
 
 /**
@@ -50,7 +47,6 @@ public class SnakeLauncher extends Application {
     root.getChildren().add(snakeBoard);
     SnakeDisplay snakeDisplay = new SnakeDisplay(snakeServiceViewModel, snakeBoard);
     root.getChildren().add(snakeDisplay);
-    // new zeugs erstellen und root.getChildren
     primaryStage.setTitle("Bestest Snake ever");
     primaryStage.setScene(new Scene(root, 693, 949));
     primaryStage.show();
